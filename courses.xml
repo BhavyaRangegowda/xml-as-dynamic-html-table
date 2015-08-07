@@ -1,0 +1,47 @@
+<onlinecourses>
+  <testing>
+    <rowdetails>
+      <rownames>Course Name,Course Mode,Course Date,Duration</rownames>
+    </rowdetails>
+    <data>
+      <course>
+        <column1>&lt;a href=http://seleniumhq.org target=&quot;_blank&quot;&gt;Selenium IDE&lt;/a&gt;</column1>
+        <column2>Online</column2>
+        <column3>20-Nov-12</column3>
+        <column4>10</column4>
+      </course>
+      <course>
+        <column1>&lt;a href=http://seleniumhq.org target=&quot;_blank&quot;&gt;Selenium Webdriver&lt;/a&gt;</column1>
+        <column2>Online</column2>
+        <column3>20-Dec-12</column3>
+        <column4>45</column4>
+      </course>
+      <course>
+        <column1>&lt;a href=http://www.soapui.org/ target=&quot;_blank&quot;&gt;SOAP UI&lt;/a&gt;</column1>
+        <column2>Online</column2>
+        <column3>02-Oct-15</column3>
+        <column4>44</column4>
+      </course>
+    </data>
+  </testing>
+  
+  <database>
+    <rowdetails>
+      <rownames>Course Name,Data Source,Course Start Date,Duration</rownames>
+    </rowdetails>
+    <data>
+      <course>
+        <column1>&lt;a href=&quot;http://www.liquibase.org/&quot; target=&quot;_blank&quot;&gt;Liquibase&lt;/a&gt;</column1>
+        <column2>Online</column2>
+        <column3>07-MAR-12</column3>
+        <column4>3</column4>
+      </course>
+      <course>
+        <column1>&lt;a href=&quot;http://www.sqlcourse.com&quot; target=&quot;_blank&quot;&gt;SQL&lt;/a&gt;</column1>
+        <column2>Online</column2>
+        <column3>09-MAR-12</column3>
+        <column4>5</column4>
+      </course>
+    </data>
+  </database>
+</onlinecourses>
